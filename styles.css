@@ -1,0 +1,27 @@
+p {
+    font-size: 20px;
+}
+home {
+    text-size-adjust: none;
+}
+li a{
+ 
+ overflow:hidden;
+ display: block;
+ text-decoration: none;
+ color: black;
+}
+li{
+    list-style-type: none;
+    float: right;
+    padding: 24px;
+    
+}
+.bar ul{
+    margin-right: 5%;
+}
+.navbar{
+    color: brown;
+    width: 100%;
+    height: 10%;
+}
